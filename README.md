@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SmXzH
-- 👀 I’m interested in do money)
-- 🌱 I’m currently learning C, JavaScript, html
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning C, JavaScript, HTML
 - 💞️ I’m looking to collaborate on preset for selling
-- 📫 How to reach me idk
+- 📫 How to reach me zhakypov1337@gmail.com
